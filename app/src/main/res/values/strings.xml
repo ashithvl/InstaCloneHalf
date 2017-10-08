@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstaCloneHalf</string>
+
+    <string name="title_activity_media">Choose Media</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="open_media">Open Media</string>
+</resources>
